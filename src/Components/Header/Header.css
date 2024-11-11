@@ -1,0 +1,61 @@
+.header{
+    height: 30vw;
+    margin: 30px auto;
+    background: linear-gradient(rgba(27, 29, 30, 0.7), rgba(150, 211, 231, 0.7)),url('/fod.png') no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 8px 8px 8px 8px;
+
+}
+.header-contents{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5vw;
+    max-width: 50% ;
+    bottom: 10%;
+    left: 6vw;
+    animation: fadeIn 3s;
+}
+.header-contents h2{
+    font-weight: 500;
+    color: rgb(247, 245, 244);
+    font-size: max(3.9vw,2px);
+}
+.header-contents p{
+    color: aliceblue;
+    font-size: 1.5vw;
+}
+.header-contents button{
+    padding: 0.5vw 1.5vw;
+    background-color: #ff7b00;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1vw;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.header-contents button:hover{
+    background-color: #ff9c4a;
+}
+@media (max-width: 1050px){
+    .header-contents{
+        max-width: 45%;
+    }
+    
+}
+@media (max-width: 750px){
+    .header-contents{
+        max-width: 65%;
+    }
+    .header-contents p{
+        display: none;
+    }
+    .header-contents button{
+        padding: 2vw 4vw;
+    }
+    
+    
+}
