@@ -1,286 +1,400 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+<div align="left" style="position: relative;">
+<img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
+<h1>FUTURE_FS_02</h1>
+<p align="left">
+	<em><code>❯ REPLACE-ME</code></em>
 </p>
-<p align="center">
-    <h1 align="center">FRONTEND</h1>
-</p>
-<p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/mugabe-rob/frontend?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/mugabe-rob/frontend?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/mugabe-rob/frontend?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/mugabe-rob/frontend?style=flat&color=0080ff" alt="repo-language-count">
-<p>
-<p align="center">
-		<em>Developed with the software and tools below.</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
-	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
-	<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white" alt="Vite">
-	<img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="React">
-	<img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat&logo=ESLint&logoColor=white" alt="ESLint">
-	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
-</p>
-<hr>
+<p align="left">
+	<!-- Shields.io badges disabled, using skill icons. --></p>
+<p align="left">Built with the tools and technologies:</p>
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=css,html,md,react,vite&theme=light">
+	</a></p>
+</div>
+<br clear="right">
 
-##  Quick Links
+##  Table of Contents
 
-> - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running frontend](#-running-frontend)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
+I. [ Overview](#-overview)
+II. [ Features](#-features)
+III. [ Project Structure](#-project-structure)
+IV. [ Getting Started](#-getting-started)
+V. [ Project Roadmap](#-project-roadmap)
+VI. [ Contributing](#-contributing)
+VII. [ License](#-license)
+VIII. [ Acknowledgments](#-acknowledgments)
 
 ---
 
 ##  Overview
-This project is a web-based platform designed to facilitate easy online food ordering for people living in Rwanda. The platform aims to streamline the process of ordering food, reducing transportation costs and saving time for users. Built with modern web technologies, this platform ensures a smooth and efficient user experience.
 
-## Technologies Used
-- **Frontend:** TypeScript, React, Tailwind CSS
-- **Backend:** MongoDB
-
-The combination of these technologies ensures a responsive, fast, and scalable application that meets the needs of users and food vendors alike.
-
+<code>❯ REPLACE-ME</code>
 
 ---
 
 ##  Features
 
-- **User-Friendly Interface:** Intuitive and easy-to-navigate interface built with React and Tailwind CSS.
-- **Efficient Food Ordering:** Simplifies the process of ordering food online, allowing users to place orders quickly and conveniently.
-- **Cost Reduction:** Helps users save on transportation costs by offering a centralized platform for food ordering.
-- **Time-Saving:** Reduces the time spent on ordering food through streamlined processes and fast load times.
-- **Responsive Design:** Ensures a seamless experience across various devices, including desktops, tablets, and mobile phones.
-- **Secure Data Management:** Utilizes MongoDB for secure and efficient handling of user data and order information.
-
+<code>❯ REPLACE-ME</code>
 
 ---
 
+##  Project Structure
+
+```sh
+└── FUTURE_FS_02/
+    ├── README.md
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── public
+    │   ├── fod.png
+    │   ├── food.png
+    │   └── vite.svg
+    ├── src
+    │   ├── App.css
+    │   ├── App.jsx
+    │   ├── Components
+    │   ├── Pages
+    │   ├── assets
+    │   ├── context
+    │   ├── index.css
+    │   └── main.jsx
+    └── vite.config.js
+```
+
+
+###  Project Index
+<details open>
+	<summary><b><code>FUTURE_FS_02/</code></b></summary>
+	<details> <!-- __root__ Submodule -->
+		<summary><b>__root__</b></summary>
+		<blockquote>
+			<table>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/package-lock.json'>package-lock.json</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/vite.config.js'>vite.config.js</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/package.json'>package.json</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/index.html'>index.html</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			</table>
+		</blockquote>
+	</details>
+	<details> <!-- src Submodule -->
+		<summary><b>src</b></summary>
+		<blockquote>
+			<table>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/index.css'>index.css</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/App.css'>App.css</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/App.jsx'>App.jsx</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/main.jsx'>main.jsx</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			</table>
+			<details>
+				<summary><b>Components</b></summary>
+				<blockquote>
+					<details>
+						<summary><b>LoginPopup</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/LoginPopup/LoginPopup.jsx'>LoginPopup.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/LoginPopup/LoginPopup.css'>LoginPopup.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>FoodDisplay</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/FoodDisplay/FoodDisplay.jsx'>FoodDisplay.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/FoodDisplay/FoodDisplay.css'>FoodDisplay.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Contact</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Contact/Contact.jsx'>Contact.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Contact/Contact.css'>Contact.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Header</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Header/Header.jsx'>Header.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Header/Header.css'>Header.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>AppDownload</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/AppDownload/AppDownload.css'>AppDownload.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/AppDownload/AppDownload.jsx'>AppDownload.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>FoodItem</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/FoodItem/FoodItem.css'>FoodItem.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/FoodItem/FoodItem.jsx'>FoodItem.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Navbar</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Navbar/Navbar.jsx'>Navbar.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Navbar/Navbar.css'>Navbar.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Footer</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Footer/Footer.jsx'>Footer.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/Footer/Footer.css'>Footer.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>ExploreMenu</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/ExploreMenu/ExploreMenu.jsx'>ExploreMenu.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Components/ExploreMenu/ExploreMenu.css'>ExploreMenu.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+				</blockquote>
+			</details>
+			<details>
+				<summary><b>context</b></summary>
+				<blockquote>
+					<table>
+					<tr>
+						<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/context/StoreContext.jsx'>StoreContext.jsx</a></b></td>
+						<td><code>❯ REPLACE-ME</code></td>
+					</tr>
+					</table>
+				</blockquote>
+			</details>
+			<details>
+				<summary><b>Pages</b></summary>
+				<blockquote>
+					<details>
+						<summary><b>Cart</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/Cart/Cart.css'>Cart.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/Cart/Cart.jsx'>Cart.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Home</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/Home/Home.css'>Home.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/Home/Home.jsx'>Home.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>PlaceOrder</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/PlaceOrder/PlaceOrder.css'>PlaceOrder.css</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='https://github.com/mugabe-rob/FUTURE_FS_02/blob/master/src/Pages/PlaceOrder/PlaceOrder.jsx'>PlaceOrder.jsx</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+				</blockquote>
+			</details>
+		</blockquote>
+	</details>
+</details>
 
 ---
-
-##  Modules
-
-<details closed><summary>.</summary>
-
-| File                                                                                      | Summary                                       |
-| ---                                                                                       | ---                                           |
-| [index.html](https://github.com/mugabe-rob/frontend/blob/master/index.html)               | HTTP error 401 for prompt `index.html`        |
-| [vite.config.js](https://github.com/mugabe-rob/frontend/blob/master/vite.config.js)       | HTTP error 401 for prompt `vite.config.js`    |
-| [package.json](https://github.com/mugabe-rob/frontend/blob/master/package.json)           | HTTP error 401 for prompt `package.json`      |
-| [package-lock.json](https://github.com/mugabe-rob/frontend/blob/master/package-lock.json) | HTTP error 401 for prompt `package-lock.json` |
-
-</details>
-
-<details closed><summary>src</summary>
-
-| File                                                                          | Summary                                   |
-| ---                                                                           | ---                                       |
-| [App.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/App.jsx)     | HTTP error 401 for prompt `src/App.jsx`   |
-| [App.css](https://github.com/mugabe-rob/frontend/blob/master/src/App.css)     | HTTP error 401 for prompt `src/App.css`   |
-| [index.css](https://github.com/mugabe-rob/frontend/blob/master/src/index.css) | HTTP error 401 for prompt `src/index.css` |
-| [main.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/main.jsx)   | HTTP error 401 for prompt `src/main.jsx`  |
-
-</details>
-
-<details closed><summary>src.Components.ExploreMenu</summary>
-
-| File                                                                                                             | Summary                                                                |
-| ---                                                                                                              | ---                                                                    |
-| [ExploreMenu.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/ExploreMenu/ExploreMenu.jsx) | HTTP error 401 for prompt `src/Components/ExploreMenu/ExploreMenu.jsx` |
-| [ExploreMenu.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/ExploreMenu/ExploreMenu.css) | HTTP error 401 for prompt `src/Components/ExploreMenu/ExploreMenu.css` |
-
-</details>
-
-<details closed><summary>src.Components.Navbar</summary>
-
-| File                                                                                              | Summary                                                      |
-| ---                                                                                               | ---                                                          |
-| [Navbar.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Navbar/Navbar.jsx) | HTTP error 401 for prompt `src/Components/Navbar/Navbar.jsx` |
-| [Navbar.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Navbar/Navbar.css) | HTTP error 401 for prompt `src/Components/Navbar/Navbar.css` |
-
-</details>
-
-<details closed><summary>src.Components.Header</summary>
-
-| File                                                                                              | Summary                                                      |
-| ---                                                                                               | ---                                                          |
-| [Header.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Header/Header.css) | HTTP error 401 for prompt `src/Components/Header/Header.css` |
-| [Header.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Header/Header.jsx) | HTTP error 401 for prompt `src/Components/Header/Header.jsx` |
-
-</details>
-
-<details closed><summary>src.Components.FoodDisplay</summary>
-
-| File                                                                                                             | Summary                                                                |
-| ---                                                                                                              | ---                                                                    |
-| [FoodDisplay.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/FoodDisplay/FoodDisplay.jsx) | HTTP error 401 for prompt `src/Components/FoodDisplay/FoodDisplay.jsx` |
-| [FoodDisplay.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/FoodDisplay/FoodDisplay.css) | HTTP error 401 for prompt `src/Components/FoodDisplay/FoodDisplay.css` |
-
-</details>
-
-<details closed><summary>src.Components.AppDownload</summary>
-
-| File                                                                                                             | Summary                                                                |
-| ---                                                                                                              | ---                                                                    |
-| [AppDownload.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/AppDownload/AppDownload.css) | HTTP error 401 for prompt `src/Components/AppDownload/AppDownload.css` |
-| [AppDownload.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/AppDownload/AppDownload.jsx) | HTTP error 401 for prompt `src/Components/AppDownload/AppDownload.jsx` |
-
-</details>
-
-<details closed><summary>src.Components.LoginPopup</summary>
-
-| File                                                                                                          | Summary                                                              |
-| ---                                                                                                           | ---                                                                  |
-| [LoginPopup.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/LoginPopup/LoginPopup.jsx) | HTTP error 401 for prompt `src/Components/LoginPopup/LoginPopup.jsx` |
-| [LoginPopup.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/LoginPopup/LoginPopup.css) | HTTP error 401 for prompt `src/Components/LoginPopup/LoginPopup.css` |
-
-</details>
-
-<details closed><summary>src.Components.Footer</summary>
-
-| File                                                                                              | Summary                                                      |
-| ---                                                                                               | ---                                                          |
-| [Footer.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Footer/Footer.jsx) | HTTP error 401 for prompt `src/Components/Footer/Footer.jsx` |
-| [Footer.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Footer/Footer.css) | HTTP error 401 for prompt `src/Components/Footer/Footer.css` |
-
-</details>
-
-<details closed><summary>src.Components.Contact</summary>
-
-| File                                                                                                 | Summary                                                        |
-| ---                                                                                                  | ---                                                            |
-| [Contact.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Contact/Contact.css) | HTTP error 401 for prompt `src/Components/Contact/Contact.css` |
-| [Contact.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/Contact/Contact.jsx) | HTTP error 401 for prompt `src/Components/Contact/Contact.jsx` |
-
-</details>
-
-<details closed><summary>src.Components.FoodItem</summary>
-
-| File                                                                                                    | Summary                                                          |
-| ---                                                                                                     | ---                                                              |
-| [FoodItem.css](https://github.com/mugabe-rob/frontend/blob/master/src/Components/FoodItem/FoodItem.css) | HTTP error 401 for prompt `src/Components/FoodItem/FoodItem.css` |
-| [FoodItem.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Components/FoodItem/FoodItem.jsx) | HTTP error 401 for prompt `src/Components/FoodItem/FoodItem.jsx` |
-
-</details>
-
-<details closed><summary>src.Pages.Cart</summary>
-
-| File                                                                                   | Summary                                             |
-| ---                                                                                    | ---                                                 |
-| [Cart.css](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/Cart/Cart.css) | HTTP error 401 for prompt `src/Pages/Cart/Cart.css` |
-| [Cart.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/Cart/Cart.jsx) | HTTP error 401 for prompt `src/Pages/Cart/Cart.jsx` |
-
-</details>
-
-<details closed><summary>src.Pages.PlaceOrder</summary>
-
-| File                                                                                                     | Summary                                                         |
-| ---                                                                                                      | ---                                                             |
-| [PlaceOrder.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/PlaceOrder/PlaceOrder.jsx) | HTTP error 401 for prompt `src/Pages/PlaceOrder/PlaceOrder.jsx` |
-| [PlaceOrder.css](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/PlaceOrder/PlaceOrder.css) | HTTP error 401 for prompt `src/Pages/PlaceOrder/PlaceOrder.css` |
-
-</details>
-
-<details closed><summary>src.Pages.Home</summary>
-
-| File                                                                                   | Summary                                             |
-| ---                                                                                    | ---                                                 |
-| [Home.css](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/Home/Home.css) | HTTP error 401 for prompt `src/Pages/Home/Home.css` |
-| [Home.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/Pages/Home/Home.jsx) | HTTP error 401 for prompt `src/Pages/Home/Home.jsx` |
-
-</details>
-
-<details closed><summary>src.context</summary>
-
-| File                                                                                                | Summary                                                  |
-| ---                                                                                                 | ---                                                      |
-| [StoreContext.jsx](https://github.com/mugabe-rob/frontend/blob/master/src/context/StoreContext.jsx) | HTTP error 401 for prompt `src/context/StoreContext.jsx` |
-
-</details>
-
----
-
 ##  Getting Started
 
-***Requirements***
+###  Prerequisites
 
-Ensure you have the following dependencies installed on your system:
+Before getting started with FUTURE_FS_02, ensure your runtime environment meets the following requirements:
 
-* **JavaScript**: `version x.y.z`
+- **Programming Language:** JavaScript
+- **Package Manager:** Npm
+
 
 ###  Installation
 
-1. Clone the frontend repository:
+Install FUTURE_FS_02 using one of the following methods:
 
+**Build from source:**
+
+1. Clone the FUTURE_FS_02 repository:
 ```sh
-git clone https://github.com/mugabe-rob/frontend
+❯ git clone https://github.com/mugabe-rob/FUTURE_FS_02
 ```
 
-2. Change to the project directory:
-
+2. Navigate to the project directory:
 ```sh
-cd frontend
+❯ cd FUTURE_FS_02
 ```
 
-3. Install the dependencies:
+3. Install the project dependencies:
+
+
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-npm install
+❯ npm install
 ```
 
-###  Running frontend
 
-Use the following command to run frontend:
+
+
+###  Usage
+Run FUTURE_FS_02 using the following command:
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-node app.js
+❯ npm start
 ```
 
-###  Tests
 
-To execute tests, run:
+###  Testing
+Run the test suite using the following command:
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-npm test
+❯ npm test
 ```
+
 
 ---
-
 ##  Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+- [X] **`Task 1`**: <strike>Implement feature one.</strike>
+- [ ] **`Task 2`**: Implement feature two.
+- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
 ##  Contributing
 
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/mugabe-rob/frontend/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/mugabe-rob/frontend/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/mugabe-rob/frontend/issues)**: Submit bugs found or log feature requests for Frontend.
+- **💬 [Join the Discussions](https://github.com/mugabe-rob/FUTURE_FS_02/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/mugabe-rob/FUTURE_FS_02/issues)**: Submit bugs found or log feature requests for the `FUTURE_FS_02` project.
+- **💡 [Submit Pull Requests](https://github.com/mugabe-rob/FUTURE_FS_02/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
-    <summary>Contributing Guidelines</summary>
+<summary>Contributing Guidelines</summary>
 
-1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
+1. **Fork the Repository**: Start by forking the project repository to your github account.
+2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/mugabe-rob/frontend
+   git clone https://github.com/mugabe-rob/FUTURE_FS_02
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -291,14 +405,22 @@ Contributions are welcome! Here are several ways you can contribute:
    ```sh
    git commit -m 'Implemented new feature x.'
    ```
-6. **Push to GitHub**: Push the changes to your forked repository.
+6. **Push to github**: Push the changes to your forked repository.
    ```sh
    git push origin new-feature-x
    ```
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
+8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
+</details>
 
-Once your PR is reviewed and approved, it will be merged into the main branch.
-
+<details closed>
+<summary>Contributor Graph</summary>
+<br>
+<p align="left">
+   <a href="https://github.com{/mugabe-rob/FUTURE_FS_02/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=mugabe-rob/FUTURE_FS_02">
+   </a>
+</p>
 </details>
 
 ---
@@ -311,8 +433,8 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
+- Special thanks to all contributors and collaborators.
+- Inspired by various open-source projects and communities.
+- Resources from [MDN Web Docs](https://developer.mozilla.org/), [React Documentation](https://reactjs.org/docs/getting-started.html), and [Vite Documentation](https://vitejs.dev/guide/).
 
 ---
